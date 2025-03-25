@@ -8,8 +8,6 @@ cd ai_dns_resolver
 pip install -r requirements.txt
 python main.py
 
-# AI-Powered DNS Resolver with NLP-Based Query Understanding
-
 ## Overview
 This project is an innovative, AI-powered DNS resolver that leverages Natural Language Processing (NLP) to interpret user queries and resolve domain names. Unlike a traditional DNS resolver that simply translates domain names to IP addresses, this project uses machine learning to detect potentially malicious domains and NLP techniques to understand user requests expressed in natural language. This makes it ideal for cybersecurity applications, network optimization, and improving user experience by automatically handling and validating DNS queries.
 
