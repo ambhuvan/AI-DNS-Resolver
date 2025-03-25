@@ -1,0 +1,9 @@
+dnspython
+flask
+scikit-learn
+pandas
+redis
+joblib
+spacy
+fuzzywuzzy
+python-Levenshtein
