@@ -42,4 +42,4 @@ This project is an innovative, AI-powered DNS resolver that leverages Natural La
 - **Redis:** For caching DNS resolution results.
 - **Docker:** For containerization and deployment.
 
-## Project Structure
+## Project Structures
